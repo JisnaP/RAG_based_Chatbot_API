@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+flask
+flask-restful
+python-dotenv
+langchain-community
+beautifulsoup4
+requests
+langchain-google-genai

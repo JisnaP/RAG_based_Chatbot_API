@@ -1,0 +1,13 @@
+langchain 
+langchain-google-genai
+faiss-cpu 
+flask 
+flask-restful 
+python-dotenv
+langchain-community
+requests 
+beautifulsoup4
+flask-cors
+dvc
+-e . 
+

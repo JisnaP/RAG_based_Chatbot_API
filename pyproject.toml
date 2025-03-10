@@ -1,0 +1,14 @@
+[build-systems]
+requires=["setuptools>=64","wheel"]
+build_backend="setuptools.build_meta"
+
+[project]
+name="Chatbot"
+version="0.0.1"
+description="Answers user queries based on technical courses from brainlox"
+authors=[{name="Jisna Patharakkal",email="jisna12@gmail.com"}]
+dependencies=["langchain", "faiss-cpu","flask","flask-restful", 
+"python-dotenv","langchain-community","beautifulsoup4","requests","langchain-google-genai"]
+
+[tool.setuptools]
+packages=["Chatbot"]

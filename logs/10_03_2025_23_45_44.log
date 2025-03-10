@@ -1,0 +1,13 @@
+[2025-03-10 23:45:44,361] 11 langchain_community.utils.user_agent -WARNING - USER_AGENT environment variable not set, consider setting it to identify your requests.
+[2025-03-10 23:45:44,375] 15 root -INFO - Data loading started ...
+[2025-03-10 23:45:48,153] 19 root -INFO - logging completed
+[2025-03-10 23:45:48,155] 16 root -INFO - downloading gemini embedding...
+[2025-03-10 23:45:48,193] 20 root -INFO - embedding downloaded successfully
+[2025-03-10 23:45:49,465] 125 faiss.loader -INFO - Loading faiss with AVX2 support.
+[2025-03-10 23:45:49,489] 127 faiss.loader -INFO - Successfully loaded faiss with AVX2 support.
+[2025-03-10 23:45:49,500] 204 faiss -INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-03-10 23:45:49,513] 23 root -INFO - Index created successfully
+[2025-03-10 23:45:49,568] 12 root -INFO - Model is loading...
+[2025-03-10 23:45:49,627] 97 werkzeug -WARNING -  * Debugger is active!
+[2025-03-10 23:45:49,650] 97 werkzeug -INFO -  * Debugger PIN: 213-542-853
+[2025-03-10 23:45:52,731] 97 werkzeug -INFO -  * Detected change in 'C:\\Users\\jisna\\chatbot\\App1.py', reloading

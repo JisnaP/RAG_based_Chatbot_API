@@ -1,0 +1,10 @@
+pyproject.toml
+Chatbot/__init__.py
+Chatbot/data_ingestion.py
+Chatbot/embeddings.py
+Chatbot/model.py
+Chatbot.egg-info/PKG-INFO
+Chatbot.egg-info/SOURCES.txt
+Chatbot.egg-info/dependency_links.txt
+Chatbot.egg-info/requires.txt
+Chatbot.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: Chatbot
+Version: 0.0.1
+Summary: Answers user queries based on technical courses from brainlox
+Author-email: Jisna Patharakkal <jisna12@gmail.com>
+Requires-Dist: langchain
+Requires-Dist: faiss-cpu
+Requires-Dist: flask
+Requires-Dist: flask-restful
+Requires-Dist: python-dotenv
+Requires-Dist: langchain-community
+Requires-Dist: beautifulsoup4
+Requires-Dist: requests
+Requires-Dist: langchain-google-genai

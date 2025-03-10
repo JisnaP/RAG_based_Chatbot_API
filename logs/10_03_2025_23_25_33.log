@@ -1,0 +1,18 @@
+[2025-03-10 23:25:33,564] 11 langchain_community.utils.user_agent -WARNING - USER_AGENT environment variable not set, consider setting it to identify your requests.
+[2025-03-10 23:25:33,582] 15 root -INFO - Data loading started ...
+[2025-03-10 23:25:36,087] 19 root -INFO - logging completed
+[2025-03-10 23:25:36,103] 16 root -INFO - downloading gemini embedding...
+[2025-03-10 23:25:36,159] 20 root -INFO - embedding downloaded successfully
+[2025-03-10 23:25:37,434] 125 faiss.loader -INFO - Loading faiss with AVX2 support.
+[2025-03-10 23:25:37,485] 127 faiss.loader -INFO - Successfully loaded faiss with AVX2 support.
+[2025-03-10 23:25:37,502] 204 faiss -INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-03-10 23:25:37,513] 23 root -INFO - Index created successfully
+[2025-03-10 23:25:37,585] 12 root -INFO - Model is loading...
+[2025-03-10 23:25:37,635] 97 werkzeug -WARNING -  * Debugger is active!
+[2025-03-10 23:25:37,664] 97 werkzeug -INFO -  * Debugger PIN: 213-542-853
+[2025-03-10 23:25:42,372] 97 werkzeug -INFO - 127.0.0.1 - - [10/Mar/2025 23:25:42] "[33mGET / HTTP/1.1[0m" 404 -
+[2025-03-10 23:25:52,004] 97 werkzeug -INFO - 127.0.0.1 - - [10/Mar/2025 23:25:52] "[35m[1mGET /chat HTTP/1.1[0m" 500 -
+[2025-03-10 23:25:52,041] 97 werkzeug -INFO - 127.0.0.1 - - [10/Mar/2025 23:25:52] "[36mGET /chat?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-10 23:25:52,043] 97 werkzeug -INFO - 127.0.0.1 - - [10/Mar/2025 23:25:52] "[36mGET /chat?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-10 23:25:52,151] 97 werkzeug -INFO - 127.0.0.1 - - [10/Mar/2025 23:25:52] "GET /chat?__debugger__=yes&cmd=resource&f=console.png&s=5ycyUD3jvsDnwY1EDBrp HTTP/1.1" 200 -
+[2025-03-10 23:27:28,703] 97 werkzeug -INFO -  * Detected change in 'C:\\Users\\jisna\\chatbot\\App.py', reloading
