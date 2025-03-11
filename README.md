@@ -60,7 +60,7 @@ curl -X POST "http://localhost:8080/chat" \
 
 
 ## Project Structure
-```
+
 chatbot-api/
 │── chatbot/
 │   ├── data_ingestion.py  # Loads documents into FAISS index
@@ -69,7 +69,7 @@ chatbot-api/
 │── app.py               # Main Flask API
 │── requirements.txt     # Dependencies
 │── README.md            # Documentation
-```
+
 
 ---
 
