@@ -1,2 +1,12 @@
 [2025-03-11 00:12:01,742] 11 langchain_community.utils.user_agent -WARNING - USER_AGENT environment variable not set, consider setting it to identify your requests.
 [2025-03-11 00:12:01,760] 15 root -INFO - Data loading started ...
+[2025-03-11 00:12:04,412] 19 root -INFO - logging completed
+[2025-03-11 00:12:04,414] 16 root -INFO - downloading gemini embedding...
+[2025-03-11 00:12:04,450] 20 root -INFO - embedding downloaded successfully
+[2025-03-11 00:12:06,458] 125 faiss.loader -INFO - Loading faiss with AVX2 support.
+[2025-03-11 00:12:06,490] 127 faiss.loader -INFO - Successfully loaded faiss with AVX2 support.
+[2025-03-11 00:12:06,505] 204 faiss -INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2025-03-11 00:12:06,511] 23 root -INFO - Index created successfully
+[2025-03-11 00:12:06,556] 12 root -INFO - Model is loading...
+[2025-03-11 00:12:06,622] 97 werkzeug -WARNING -  * Debugger is active!
+[2025-03-11 00:12:06,656] 97 werkzeug -INFO -  * Debugger PIN: 213-542-853

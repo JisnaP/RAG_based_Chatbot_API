@@ -50,13 +50,13 @@ curl -X POST "http://localhost:8080/chat" \
 
 
 ---
-
+```
 ## API Endpoints
 
 ### `POST /chat`
 - **Request:** JSON with a `query` field.
 - **Response:** JSON containing the answer and context sources.
-
+```
 
 
 ## Project Structure
