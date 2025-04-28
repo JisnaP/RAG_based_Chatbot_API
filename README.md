@@ -73,13 +73,7 @@ chatbot-api/
 
 ---
 
-## Troubleshooting
 
-### 🔹 415 Unsupported Media Type Error
-**Cause:** Content-Type is not set to `application/json`.
-**Fix:** Ensure the request includes:
-```sh
--H "Content-Type: application/json"
 ```
 
 ### 🔹 FAISS Index Not Found
