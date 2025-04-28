@@ -76,9 +76,7 @@ chatbot-api/
 
 ```
 
-### 🔹 FAISS Index Not Found
-**Cause:** The FAISS index is missing.
-**Fix:** Run the data ingestion script to generate the FAISS index:
+
 ```sh
 python chatbot/data_ingestion.py
 ```
